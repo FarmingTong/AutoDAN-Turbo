@@ -1,6 +1,6 @@
-# AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs
 
-**AutoDAN-Turbo Official Website at [HERE](https://autodans.github.io/AutoDAN-Turbo/)**
+
+**AutoDAN-Turbo Official Website at [HERE](https://autodans.github.io/AutoDAN-Turbo/)** 
 
 This repository contains the official implementation of the paper:
 [AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs](https://arxiv.org/)
